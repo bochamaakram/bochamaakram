@@ -88,8 +88,9 @@
   </p>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bochamaakram&show_icons=true&locale=en&layout=compact" alt="bochamaakram" /></p>
+<p  align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bochamaakram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=bochamaakram&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=react&hide_border=false&hide=html,blade,css" height="150" alt="languages graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bochamaakram&repo=IP-Finder&disable_animations=false&theme=react&hide_border=false&radius=6" alt="github-readme-streak-stats">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bochamaakram&show_icons=true&locale=en" alt="bochamaakram" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bochamaakram&" alt="bochamaakram" /></p>
+</p>
