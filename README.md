@@ -2,8 +2,6 @@
 <h3 align="center">A junior full-stack web developer</h3>
 <h5 align="center">passionate about 3D design and game dev</h5>
 
-- 💬 Ask me about **react js, laravel**
-
 - 📫 How to reach me **boouchamaakraam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
