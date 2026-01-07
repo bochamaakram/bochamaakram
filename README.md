@@ -9,11 +9,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akram-bouchama-8b287532a/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=447&format=png&color=000000" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/akram-bouchama-8b287532a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/akram_bouucham/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=32309&format=png&color=000000" alt="Instagram" width="40" height="40"/>
+  <a href="https://www.instagram.com/akram_bouucham/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
@@ -22,75 +22,74 @@
 <ul align="left">
   <li><strong>Languages</strong>:</li>
   <p>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    <a href="https://www.w3.org/html/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
     </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    <a href="https://www.php.net" target="_blank">
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
     </a>
   </p>
 
   <li><strong>Frameworks & Libraries</strong>:</li>
   <p>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <a href="https://reactjs.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
     </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+    <a href="https://redux.js.org" target="_blank">
+      <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
     </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40"/>
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+    <a href="https://getbootstrap.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
     </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="40" height="40"/>
+    <a href="https://laravel.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/>
     </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+    <a href="https://expressjs.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
     </a>
-    <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-      <img src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="40" height="40"/>
+    <a href="https://ui.shadcn.com/" target="_blank">
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui" height="40"/>
     </a>
   </p>
 
   <li><strong>Databases</strong>:</li>
   <p>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
     </a>
   </p>
 
   <li><strong>Tools</strong>:</li>
   <p>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
     </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <a href="https://postman.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
     </a>
   </p>
 </ul>
 
-<p  align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bochamaakram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=bochamaakram&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=react&hide_border=false&hide=html,blade,css" height="150" alt="languages graph"  />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bochamaakram&repo=IP-Finder&disable_animations=false&theme=react&hide_border=false&radius=6" alt="github-readme-streak-stats">
-
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bochamaakram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=bochamaakram&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=react&hide_border=false&hide=html,blade,css" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bochamaakram&repo=IP-Finder&disable_animations=false&theme=react&hide_border=false&radius=6" alt="github-readme-streak-stats">
 </p>
