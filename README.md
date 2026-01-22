@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akram Bouchama</h1>
+<h1 align="center">Hi , I'm Akram Bouchama</h1>
 <h3 align="center">A junior full-stack web developer</h3>
 <h5 align="center">passionate about 3D design and game dev</h5>
 
@@ -44,6 +44,12 @@
   <p>
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="40" height="40"/>
+    </a>
+    <a href="https://www.electronjs.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="40" height="40"/>
     </a>
     <a href="https://redux.js.org" target="_blank">
       <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
