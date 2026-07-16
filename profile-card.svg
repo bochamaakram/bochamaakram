@@ -33,7 +33,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#4c4f69">
 <tspan x="390" y="30">@bochamaakram <tspan class="cc">───────────────────────────────────────────────</tspan></tspan>
 <tspan x="390" y="55" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Fedora Linux, Android, Windows</tspan>
-<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">Uptime (Age)</tspan>:<tspan class="cc" id="age_data_dots"> .......... </tspan><tspan class="value" id="age_data">22y 231d</tspan>
+<tspan x="390" y="80" class="cc">. </tspan><tspan class="key">Uptime (Age)</tspan>:<tspan class="cc" id="age_data_dots"> .......... </tspan><tspan class="value" id="age_data">22y 232d</tspan>
 <tspan x="390" y="105" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Marrakech, Morocco</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Specialty</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Full Stack Web Developer, Automation</tspan>
 <tspan x="390" y="155" class="cc">. </tspan><tspan class="key">Programming Languages</tspan>:<tspan class="cc"> . </tspan><tspan class="value">JS, TS, PHP, Python, Rust, Mysql, Nosql</tspan>
